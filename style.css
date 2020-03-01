@@ -1,0 +1,49 @@
+.home{
+    margin-top: 0px;
+}
+.title{
+    margin-top: 0px;
+    
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: 2.2em;
+    font-weight: bold;
+    font-family: arial, helvetica, sans-serif;
+}
+#header{
+    margin-top: 0px;
+    width: auto;
+    height: auto;
+    background-color:#35424a;
+    height: 120px;   
+}
+.nav-menu{
+    text-decoration: none;
+    display: flex;
+    position: static;
+    text-align: center !important;
+    padding: 10px 550px 10px 550px;
+    font-size: 20px;
+    color: #a6a6a6 !important;    
+}
+.menus{
+    padding:5px 10px 5px 10px;
+    color: #a6a6a6   
+}
+.slides{
+    height: 400px;
+}
+.para3{
+    background: #35424a;
+    text-align: center;
+    font-size: 1.3em;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 25px;
+}
+.enhance{
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+}
